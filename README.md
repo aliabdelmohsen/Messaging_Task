@@ -41,8 +41,7 @@ To build and run the project, follow these steps:
 
  * http://localhost:9090/h2-console/login.jsp
  * username: sa
-
- * 
+ * without passowrd
 ## postman collection
 
 * you need to import MessagingPostManCollection.postman_collection.json into postman

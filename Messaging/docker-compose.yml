@@ -1,0 +1,6 @@
+services:
+  accounts:
+    image: "aliabdelmohsen1/messaging:latest"
+    container_name: messaging-container
+    ports:
+    - "9090:9090"
